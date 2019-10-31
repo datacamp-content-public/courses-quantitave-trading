@@ -1,1 +1,1 @@
-# courses-quantitave-trading
+# Courses-Quantitave-Trading
